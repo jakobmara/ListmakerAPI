@@ -1,7 +1,7 @@
 # List Maker API
 
 <h2> What is this </h2>
-<p>This is a Flask REST API I created (hosted on Heroku) to interact with SQL database.</p>
+<p>This is a Flask REST API I created (hosted on Heroku) to interact with MySQL database.</p>
 
 <h2>What is the purpose of this</h2>
 <p>The goal of the API was to give users the ability to create and edit lists of their favorite TV shows or movies.</p>
@@ -14,4 +14,5 @@
 <li>Python</li>
 <li>Flask</li>
 <li>BeautifulSoup</li>
+<li>MySQL</li>
 </ul>
